@@ -1,4 +1,4 @@
-### Hi there, I'm Anisha Devi Lalwani 👋
+### Hi there, I'm Anisha Lalwani 👋
 
 I am an undergraduate student pursuing a Bachelor of Science in Artificial Intelligence (BSAI) szabist in Karachi.
 
