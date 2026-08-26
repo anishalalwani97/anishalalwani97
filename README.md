@@ -23,7 +23,7 @@
 
 ### 📌 Featured Projects
 - 🤖 **[Smart AI Text Analyzer](https://github.com/anishalalwani97/smart-AI-text-Analyzer)** – A Python-based tool for analyzing and processing text data.
-
+* 🤖 [Smart Sentiment Analyzer](https://github.com/anishalalwani97/smart-sentiment-Analyzer) – A Python tool for analyzing text emotional tone and sentiment.
 ---
 
 ### 📬 Connect with Me
