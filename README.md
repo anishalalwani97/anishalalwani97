@@ -24,7 +24,7 @@
 ### 📌 Featured Projects
 - 🤖 **[Smart AI Text Analyzer](https://github.com/anishalalwani97/smart-AI-text-Analyzer)** – A Python-based tool for analyzing and processing text data.
 * 🤖 [Smart Sentiment Analyzer](https://github.com/anishalalwani97/smart-sentiment-Analyzer) – A Python tool for analyzing text emotional tone and sentiment.
-* * 🔐 [Smart Password Checker](https://github.com/anishalalwani97/smart-password-checker) – A Python tool for checking password strength based on length, case, digits, and special characters.
+* 🔐 [Smart Password Checker](https://github.com/anishalalwani97/smart-password-checker) – A Python tool for checking password strength based on length, case, digits, and special characters.
 ---
 
 ### 📬 Connect with Me
